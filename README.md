@@ -304,10 +304,6 @@ Spring Boot 3.0+ requires Jakarta EE instead of Java EE:
 - [ ] Implement data export functionality
 - [ ] Add metrics and monitoring
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -316,6 +312,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📞 Support
-
-If you encounter any issues or have questions, please open an issue on GitHub.
